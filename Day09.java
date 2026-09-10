@@ -1,6 +1,6 @@
 // Day9Menuju100DaysOfCoding
 // Chakyy_26
-public class Day9 {
+public class Day09 {
     
     public static void main(String[] args) {
         final String nickname = " Chakyy26";
