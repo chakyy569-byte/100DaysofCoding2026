@@ -14,6 +14,7 @@ public class Day19 {
         short nilaishort = (short) nilaiint;
         
         byte nilaibyte = (byte) nilaishort;
+        
         System.out.printf("Nilai Double\t:%.2f%nNilai Float\t:%.2f%nNilai long\t:%d%nNilai int\t:%d%nNilai short\t:%d%nNilai byte\t:%d", nilaidouble, nilaifloat, nilailong, nilaiint, nilaishort, nilaibyte);
     }
     
