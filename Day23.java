@@ -16,9 +16,9 @@ public class Day23 {
         
         //output nya
         System.out.println("=== Hasil ===");
-        System.out.println("Luas        : " + luas + " cm");
+        System.out.println("Luas        : " + luas + " cm²");
         
-        // jadi luas persegi tersebut itu adalah 100cm
+        // jadi luas persegi tersebut itu adalah 100cm²
         
         // #Day 23 menuju 100 Days Of Coding
         // Chakyy 
