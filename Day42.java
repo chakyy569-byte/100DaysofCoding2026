@@ -21,7 +21,7 @@ public class Day42 {
         } else if (bersih > 10000000 || potongan < 500000) {
             System.out.println("Gaji Bersih Tinggi atau Potongan Sangat Kecil");
             
-        } else if (bersih < 5000000 || potongan > 100000) {
+        } else if (bersih < 5000000 || potongan > 1000000) {
             System.out.println("Gaji Bersih Terlalu Rendah atau Potongan Terlalu Besar ");
             
             
