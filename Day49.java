@@ -7,8 +7,8 @@ public class Day49 {
         Scanner in = new Scanner (System.in);
         System.out.print("Masukkan Umur :");
         int level = in.nextInt();
-        String Status = (level  >= 50) ? "Boleh masuk" :  "Tidak boleh masuk";
-        System.out.println(Status);
+        String Stage = (level  >= 50) ? "Boleh lanjut" :  "Tidak boleh lanjut";
+        System.out.println(Stage);
     }
 
 }
