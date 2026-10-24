@@ -26,12 +26,15 @@ public class Day53 {
                     System.out.println("Hasil pengurangan = "+ (angka1 - angka2));
                     break;
                 case 4:
-                    return;
+                     System.out.println("Tidak ada Operasi, Program Berakhir");
+                    break;
+               
+                        
             
                 
             }
 
-        } while ( menu <= 4);
+        } while ( menu != 4);
 
     }
     
