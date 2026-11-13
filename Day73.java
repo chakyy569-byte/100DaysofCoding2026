@@ -17,7 +17,7 @@ public class Day73 {
                 break;
                 
             }
-            penjumlahan+=total;
+            total+=penjumlahan;
         }
         System.out.println("total :" + total);
         
